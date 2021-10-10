@@ -1,0 +1,44 @@
+@font-face {
+    font-family: comfortaa;
+    src: url(../assets/fonts/Comfortaa-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: dancing-script;
+    src: url(../assets/fonts/DancingScript-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: share-tech-mono;
+    src: url(../assets/fonts/ShareTechMono-Regular.ttf)
+}
+
+@font-face {
+    font-family: oswald;
+    src: url(../assets/fonts/Oswald-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: open-sans;
+    src: url(../assets/fonts/OpenSans-Regular.ttf)
+}
+
+[font_open-sans] {
+    font-family: open-sans
+}
+
+[font-comfortaa] {
+    font-family: comfortaa
+}
+
+[font-dancing-script] {
+    font-family: dancing-script
+}
+
+[font-share-tech-mono] {
+    font-family: share-tech-mono
+}
+
+[font-oswald] {
+    font-family: oswald
+}
